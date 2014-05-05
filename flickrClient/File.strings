@@ -1,0 +1,52 @@
+/* 
+  File.strings
+  flickrClient
+
+  Created by fumiharu on 2014/05/03.
+  Copyright (c) 2014年 fumiharu. All rights reserved.
+*/
+
+{
+    photos =     {
+        page = 1;
+        pages = 2442200;
+        perpage = 3;
+        photo =         (
+        {
+            farm = 3;
+            id = 13903222479;
+            isfamily = 0;
+            isfriend = 0;
+            ispublic = 1;
+            owner = "29799905@N06";
+            secret = 454eab1320;
+            server = 2927;
+            title = "";
+        },
+        {
+            farm = 3;
+            id = 13902871978;
+            isfamily = 0;
+            isfriend = 0;
+            ispublic = 1;
+            owner = "60269456@N00";
+            secret = 4e463585a3;
+            server = 2923;
+            title = "Wen's Scenery | \U6eab\U5f0f\U6548\U6620";
+        },
+        {
+            farm = 8;
+            id = 14066357756;
+            isfamily = 0;
+            isfriend = 0;
+            ispublic = 1;
+            owner = "60269456@N00";
+            secret = d7fed01d07;
+            server = 7067;
+            title = "Wen's Scenery | \U6eab\U5f0f\U6548\U6620";
+        }
+        );
+        total = 7326599;
+    };
+    stat = ok;
+}

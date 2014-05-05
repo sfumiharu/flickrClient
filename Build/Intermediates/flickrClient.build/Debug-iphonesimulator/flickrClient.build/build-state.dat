@@ -1,0 +1,877 @@
+TflickrClient
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/PrecompiledHeaders/flickrClient-Prefix-cqbhybsybixtujdetcsuaajubrfz/flickrClient-Prefix.pch.pch flickrClient/flickrClient-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/DetailViewController.o /Users/fumiharu/Desktop/flickrClient/flickrClient/DetailViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/ViewController.o /Users/fumiharu/Desktop/flickrClient/flickrClient/ViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/AppDelegate.o /Users/fumiharu/Desktop/flickrClient/flickrClient/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/MainTableViewCell.o /Users/fumiharu/Desktop/flickrClient/flickrClient/MainTableViewCell.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/main.o /Users/fumiharu/Desktop/flickrClient/flickrClient/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/Params.o /Users/fumiharu/Desktop/flickrClient/flickrClient/Params.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app/flickrClient normal x86_64
+cCpResource flickrClient/chiharu.jpg Build/Products/Debug-iphonesimulator/flickrClient.app/chiharu.jpg
+cCopyStringsFile /Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app/File.strings flickrClient/File.strings
+cCompileXIB /Users/fumiharu/Desktop/flickrClient/flickrClient/DetailViewController.xib
+cCompileXIB /Users/fumiharu/Desktop/flickrClient/flickrClient/ViewController.xib
+cCopyStringsFile /Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app/en.lproj/InfoPlist.strings flickrClient/en.lproj/InfoPlist.strings
+cCompileXIB /Users/fumiharu/Desktop/flickrClient/flickrClient/MainTableViewCell.xib
+cCompileAssetCatalog /Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app /Users/fumiharu/Desktop/flickrClient/flickrClient/Images.xcassets
+cProcessInfoPlistFile /Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app/Info.plist /Users/fumiharu/Desktop/flickrClient/flickrClient/flickrClient-Info.plist
+cGenerateDSYMFile /Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app.dSYM /Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app/flickrClient
+cTouch /Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c000000005348917F0000000000000198
+t1397264767
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531FD95E00000000000003B4
+t1394596190
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531FD965000000000000019E
+t1394596197
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000531FD968000000000058E0E0
+t1394596200
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000531FD96800000000005B82F0
+t1394596200
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005348915C0000000000446820
+t1397264732
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c00000000531FD96800000000003599D0
+t1394596200
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000531FD96800000000002FC3B0
+t1394596200
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000531FD968000000000004B000
+t1394596200
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531FD96A000000000088D8C0
+t1394596202
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000531FD96B0000000000037680
+t1394596203
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000531FD96B000000000048F720
+t1394596203
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000531FD96B000000000013FD70
+t1394596203
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531FD96F0000000001F1DE10
+t1394596207
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000531FD97900000000002BC360
+t1394596217
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c00000000531FD9800000000000002338
+t1394596224
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c00000000531FD981000000000008D370
+t1394596225
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c00000000531FD9810000000000392E20
+t1394596225
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c0000000053100E8D00000000000141F0
+t1393561229
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c00000000531FD9810000000000014A80
+t1394596225
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000531FD9810000000000033BA0
+t1394596225
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c00000000531FD981000000000001CFB0
+t1394596225
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c00000000531FD981000000000001B2B0
+t1394596225
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c00000000531FD98100000000000C9570
+t1394596225
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c00000000531FD9810000000000063280
+t1394596225
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000531FD9810000000000008880
+t1394596225
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000531FD9810000000000015080
+t1394596225
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c00000000531FD98100000000000230F0
+t1394596225
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c00000000531FD981000000000000E380
+t1394596225
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c00000000531FD9810000000000089380
+t1394596225
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c00000000531FD9810000000000017320
+t1394596225
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000531FD9810000000000039CD0
+t1394596225
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c00000000531FD981000000000000B0B0
+t1394596225
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000531FD9820000000000167E80
+t1394596226
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c00000000531FD98100000000000106A0
+t1394596225
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c00000000531FD981000000000001CE40
+t1394596225
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c00000000531FD98200000000000740C0
+t1394596226
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c00000000531FD982000000000006CA60
+t1394596226
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c00000000531FD982000000000001BAD0
+t1394596226
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c00000000531FD9820000000000084A20
+t1394596226
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531FD9960000000000000ADC
+t1394596246
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c000000005348915C000000000000514C
+t1397264732
+s20812
+
+N/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/PrecompiledHeaders/flickrClient-Prefix-cqbhybsybixtujdetcsuaajubrfz/flickrClient-Prefix.pch.pch
+t1399222878
+s122964
+
+N/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/AppDelegate.o
+t1399222878
+s71288
+
+N/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/DetailViewController.o
+t1399253338
+s53376
+
+N/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/MainTableViewCell.o
+t1399222878
+s47272
+
+N/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/Params.o
+t1399251855
+s5392
+
+N/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/ViewController.o
+t1399253185
+s93616
+
+N/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/flickrClient.LinkFileList
+c000000005366725E000000000000039C
+t1399222878
+s924
+
+N/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/main.o
+t1399222878
+s3764
+
+N/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/assetcatalog_dependencies.txt
+t1399247352
+s388
+
+N/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/assetcatalog_generated_info.plist
+t1399247352
+s525
+
+N/Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app
+t1399253338
+s442
+
+N/Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app.dSYM
+t1399253213
+s102
+
+N/Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app/DetailViewController.nib
+t1399247354
+s2287
+
+N/Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app/File.strings
+t1399247350
+s486
+
+N/Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app/Info.plist
+t1399247354
+s981
+
+N/Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app/MainTableViewCell.nib
+t1399247353
+s2704
+
+N/Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app/PkgInfo
+t1399247354
+s8
+
+N/Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app/ViewController.nib
+t1399247354
+s3444
+
+N/Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app/chiharu.jpg
+t1399247350
+s35854
+
+N/Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app/en.lproj/InfoPlist.strings
+t1399247350
+s42
+
+N/Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app/flickrClient
+t1399253338
+s58044
+
+N/Users/fumiharu/Desktop/flickrClient/flickrClient/AppDelegate.h
+c000000005362E6840000000000000124
+t1398990468
+s292
+
+N/Users/fumiharu/Desktop/flickrClient/flickrClient/AppDelegate.m
+c00000000536653DD00000000000008FE
+t1399215069
+s2302
+
+N/Users/fumiharu/Desktop/flickrClient/flickrClient/DetailViewController.h
+c000000005366E7AD0000000000000156
+t1399252909
+s342
+
+N/Users/fumiharu/Desktop/flickrClient/flickrClient/DetailViewController.m
+c000000005366E95A00000000000006A6
+t1399253338
+s1702
+
+N/Users/fumiharu/Desktop/flickrClient/flickrClient/DetailViewController.xib
+c0000000053666EC00000000000000D92
+t1399221952
+s3474
+
+N/Users/fumiharu/Desktop/flickrClient/flickrClient/File.strings
+c000000005363CABD00000000000004AA
+t1399048893
+s1194
+
+N/Users/fumiharu/Desktop/flickrClient/flickrClient/Images.xcassets
+c000000005362E6840000000000000088
+t1398990468
+s136
+
+N/Users/fumiharu/Desktop/flickrClient/flickrClient/MainTableViewCell.h
+c0000000053666EC00000000000000165
+t1399221952
+s357
+
+N/Users/fumiharu/Desktop/flickrClient/flickrClient/MainTableViewCell.m
+c0000000053644C8300000000000001B5
+t1399082115
+s437
+
+N/Users/fumiharu/Desktop/flickrClient/flickrClient/MainTableViewCell.xib
+c0000000053666F350000000000000BC9
+t1399222069
+s3017
+
+N/Users/fumiharu/Desktop/flickrClient/flickrClient/Params.h
+c000000005366E38F000000000000055B
+t1399251855
+s1371
+
+N/Users/fumiharu/Desktop/flickrClient/flickrClient/Params.m
+c000000005366E38F000000000000021E
+t1399251855
+s542
+
+N/Users/fumiharu/Desktop/flickrClient/flickrClient/ViewController.h
+c00000000536336B30000000000000149
+t1399010995
+s329
+
+N/Users/fumiharu/Desktop/flickrClient/flickrClient/ViewController.m
+c000000005366E8C10000000000000F60
+t1399253185
+s3936
+
+N/Users/fumiharu/Desktop/flickrClient/flickrClient/ViewController.xib
+c000000005366603E0000000000000F28
+t1399218238
+s3880
+
+N/Users/fumiharu/Desktop/flickrClient/flickrClient/chiharu.jpg
+c00000000535FD28C0000000000008C0E
+t1398788748
+s35854
+
+N/Users/fumiharu/Desktop/flickrClient/flickrClient/en.lproj/InfoPlist.strings
+c000000005362E684000000000000002D
+t1398990468
+s45
+
+N/Users/fumiharu/Desktop/flickrClient/flickrClient/flickrClient-Info.plist
+c000000005362E7E10000000000000486
+t1398990817
+s1158
+
+N/Users/fumiharu/Desktop/flickrClient/flickrClient/flickrClient-Prefix.pch
+c000000005362E6840000000000000158
+t1398990468
+s344
+
+N/Users/fumiharu/Desktop/flickrClient/flickrClient/main.m
+c000000005362E6840000000000000160
+t1398990468
+s352
+
+N/usr/lib/libSystem.B.dylib
+c000000005281C02A000000000000E6D0
+t1384235050
+s59088
+
+N/usr/lib/system/libcache.dylib
+c000000005281C0390000000000012A00
+t1384235065
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c000000005281C01C000000000002E320
+t1384235036
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c000000005281C02A0000000000021860
+t1384235050
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c000000005281C038000000000001B620
+t1384235064
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c000000005281C03800000000000BD920
+t1384235064
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c0000000053100E8D00000000000141F0
+t1393561229
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c000000005281C039000000000000A120
+t1384235065
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c0000000053100E8D000000000001D550
+t1393561229
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c000000005281C0380000000000014EE0
+t1384235064
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c000000005281C03A0000000000010380
+t1384235066
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c000000005281C03A000000000000C4C0
+t1384235066
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c000000005281C03900000000000357A0
+t1384235065
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c000000005281C039000000000000C070
+t1384235065
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c00000000530299D10000000000168D00
+t1392679377
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c0000000053100E8D0000000000010630
+t1393561229
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000053100E8D000000000001DF10
+t1393561229
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c000000005281C02A0000000000075B00
+t1384235050
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c0000000053591AA7000000000007CC70
+t1398348455
+s511088
+
+N/usr/lib/system/libsystem_m.dylib
+c000000005281C02A00000000000766C0
+t1384235050
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c00000000530299D00000000000044DC0
+t1392679376
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c000000005281C02A0000000000021FA0
+t1384235050
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c0000000053100E8D000000000002D920
+t1393561229
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c000000005281C039000000000001E570
+t1384235065
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000053100E8D000000000000CC70
+t1393561229
+s52336
+
+N/usr/lib/system/libsystem_stats.dylib
+c0000000053100E8D0000000000009A80
+t1393561229
+s39552
+
+N/usr/lib/system/libunc.dylib
+c000000005281C033000000000000C3F0
+t1384235059
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c000000005281C03900000000000199F0
+t1384235065
+s104944
+
+CBuild AST from /Users/fumiharu/Desktop/flickrClient/flickrClient/AppDelegate.m
+r0
+
+CBuild AST from /Users/fumiharu/Desktop/flickrClient/flickrClient/DetailViewController.m
+r0
+
+CBuild AST from /Users/fumiharu/Desktop/flickrClient/flickrClient/MainTableViewCell.m
+r0
+
+CBuild AST from /Users/fumiharu/Desktop/flickrClient/flickrClient/Params.m
+r0
+
+CBuild AST from /Users/fumiharu/Desktop/flickrClient/flickrClient/ViewController.m
+r0
+
+CBuild AST from /Users/fumiharu/Desktop/flickrClient/flickrClient/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies014f2eda2017b941^f8fd2fda2017b941^---0#1#1#--18"Check dependencies36"DD337624-771B-43D5-B606-E310AFFD7D31-
+
+CCompileAssetCatalog /Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app /Users/fumiharu/Desktop/flickrClient/flickrClient/Images.xcassets
+s420940150.774690
+e420940152.961533
+r1
+xCompileAssetCatalog
+x/Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app
+x/Users/fumiharu/Desktop/flickrClient/flickrClient/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app/LaunchImage-700-568h@2x.png
+o/Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app/Assets.car
+o/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CompileAssetCatalog Build/Products/Debug-iphonesimulator/flickrClient.app flickrClient/Images.xcassets102"CompileAssetCatalog Build/Products/Debug-iphonesimulator/flickrClient.app flickrClient/Images.xcassets446ac6760917b941^9335f6780917b941^-416"/* com.apple.actool.compilation-results *//Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app/LaunchImage-700-568h@2x.png/Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app/Assets.car/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@73"file:///Users/fumiharu/Desktop/flickrClient/flickrClient/Images.xcassets/0000000000000000^1168"CompileAssetCatalog Build/Products/Debug-iphonesimulator/flickrClient.app flickrClient/Images.xcassets    cd /Users/fumiharu/Desktop/flickrClient    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app /Users/fumiharu/Desktop/flickrClient/flickrClient/Images.xcassets36"1A9E6202-3572-4544-BEB3-3E52D039CA31-
+b3481EEBE-4E4B-4D8A-8D71-5EFC23BEBF8A
+
+CCompileC Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/AppDelegate.o /Users/fumiharu/Desktop/flickrClient/flickrClient/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420915678.129085
+e420915678.231113
+r1
+xCompileC
+xBuild/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/fumiharu/Desktop/flickrClient/flickrClient/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/Desktop/flickrClient/flickrClient/AppDelegate.m
+d/Users/fumiharu/Desktop/flickrClient/flickrClient/AppDelegate.h
+d/Users/fumiharu/Desktop/flickrClient/flickrClient/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/fumiharu/Desktop/flickrClient/flickrClient/AppDelegate.m221"CompileC Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/AppDelegate.o flickrClient/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler323921dea916b941^bf2a3bdea916b941^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/fumiharu/Desktop/flickrClient/flickrClient/AppDelegate.m0000000000000000^3768"CompileC Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/AppDelegate.o flickrClient/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/Desktop/flickrClient    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/flickrClient-generated-files.hmap -I/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/flickrClient-own-target-headers.hmap -I/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/flickrClient-all-target-headers.hmap -iquote /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/flickrClient-project-headers.hmap -I/Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/DerivedSources/x86_64 -I/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/DerivedSources -F/Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator -include /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/PrecompiledHeaders/flickrClient-Prefix-cqbhybsybixtujdetcsuaajubrfz/flickrClient-Prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/AppDelegate.d --serialize-diagnostics /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/AppDelegate.dia -c /Users/fumiharu/Desktop/flickrClient/flickrClient/AppDelegate.m -o /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/AppDelegate.o36"448C2F0B-7BCC-402E-8B8F-5DE997AAF904-
+b32A4ED9D-A9A9-4454-95BB-A765526B5375
+
+CCompileC Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/DetailViewController.o /Users/fumiharu/Desktop/flickrClient/flickrClient/DetailViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420946138.182520
+e420946138.244843
+r1
+xCompileC
+xBuild/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/DetailViewController.o
+x/Users/fumiharu/Desktop/flickrClient/flickrClient/DetailViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/Desktop/flickrClient/flickrClient/DetailViewController.m
+d/Users/fumiharu/Desktop/flickrClient/flickrClient/DetailViewController.h
+d/Users/fumiharu/Desktop/flickrClient/flickrClient/Params.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/fumiharu/Desktop/flickrClient/flickrClient/DetailViewController.m239"CompileC Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/DetailViewController.o flickrClient/DetailViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerb2d82eda2017b941^10b03eda2017b941^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/fumiharu/Desktop/flickrClient/flickrClient/DetailViewController.m0000000000000000^3822"CompileC Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/DetailViewController.o flickrClient/DetailViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/Desktop/flickrClient    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/flickrClient-generated-files.hmap -I/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/flickrClient-own-target-headers.hmap -I/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/flickrClient-all-target-headers.hmap -iquote /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/flickrClient-project-headers.hmap -I/Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/DerivedSources/x86_64 -I/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/DerivedSources -F/Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator -include /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/PrecompiledHeaders/flickrClient-Prefix-cqbhybsybixtujdetcsuaajubrfz/flickrClient-Prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/DetailViewController.d --serialize-diagnostics /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/DetailViewController.dia -c /Users/fumiharu/Desktop/flickrClient/flickrClient/DetailViewController.m -o /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/DetailViewController.o36"A63BDAC1-068C-44A9-8271-57D39F795C4C-
+b774A9358-3960-47F2-A80D-695A33B78CFD
+
+CCompileC Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/MainTableViewCell.o /Users/fumiharu/Desktop/flickrClient/flickrClient/MainTableViewCell.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420915678.129780
+e420915678.221475
+r1
+xCompileC
+xBuild/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/MainTableViewCell.o
+x/Users/fumiharu/Desktop/flickrClient/flickrClient/MainTableViewCell.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/Desktop/flickrClient/flickrClient/MainTableViewCell.m
+d/Users/fumiharu/Desktop/flickrClient/flickrClient/MainTableViewCell.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/fumiharu/Desktop/flickrClient/flickrClient/MainTableViewCell.m233"CompileC Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/MainTableViewCell.o flickrClient/MainTableViewCell.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilere25621dea916b941^74b238dea916b941^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/fumiharu/Desktop/flickrClient/flickrClient/MainTableViewCell.m0000000000000000^3804"CompileC Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/MainTableViewCell.o flickrClient/MainTableViewCell.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/Desktop/flickrClient    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/flickrClient-generated-files.hmap -I/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/flickrClient-own-target-headers.hmap -I/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/flickrClient-all-target-headers.hmap -iquote /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/flickrClient-project-headers.hmap -I/Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/DerivedSources/x86_64 -I/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/DerivedSources -F/Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator -include /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/PrecompiledHeaders/flickrClient-Prefix-cqbhybsybixtujdetcsuaajubrfz/flickrClient-Prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/MainTableViewCell.d --serialize-diagnostics /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/MainTableViewCell.dia -c /Users/fumiharu/Desktop/flickrClient/flickrClient/MainTableViewCell.m -o /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/MainTableViewCell.o36"BF62CFC0-D211-40E7-9A1B-D4CEC90302B4-
+b32A4ED9D-A9A9-4454-95BB-A765526B5375
+
+CCompileC Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/Params.o /Users/fumiharu/Desktop/flickrClient/flickrClient/Params.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420944655.632865
+e420944655.706879
+r1
+xCompileC
+xBuild/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/Params.o
+x/Users/fumiharu/Desktop/flickrClient/flickrClient/Params.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/Desktop/flickrClient/flickrClient/Params.m
+d/Users/fumiharu/Desktop/flickrClient/flickrClient/Params.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/fumiharu/Desktop/flickrClient/flickrClient/Params.m211"CompileC Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/Params.o flickrClient/Params.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerd921a20f1b17b941^481ab80f1b17b941^---0#0#1#-19%DVTDocumentLocation2@65"file:///Users/fumiharu/Desktop/flickrClient/flickrClient/Params.m0000000000000000^3738"CompileC Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/Params.o flickrClient/Params.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/Desktop/flickrClient    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/flickrClient-generated-files.hmap -I/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/flickrClient-own-target-headers.hmap -I/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/flickrClient-all-target-headers.hmap -iquote /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/flickrClient-project-headers.hmap -I/Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/DerivedSources/x86_64 -I/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/DerivedSources -F/Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator -include /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/PrecompiledHeaders/flickrClient-Prefix-cqbhybsybixtujdetcsuaajubrfz/flickrClient-Prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/Params.d --serialize-diagnostics /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/Params.dia -c /Users/fumiharu/Desktop/flickrClient/flickrClient/Params.m -o /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/Params.o36"0B1282AF-9EAB-4730-AAC7-A6D4CCBFE72D-
+b5493BD9C-C9CA-4573-A4F4-42CD93CA8A79
+
+CCompileC Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/ViewController.o /Users/fumiharu/Desktop/flickrClient/flickrClient/ViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420945985.025820
+e420945985.127044
+r1
+xCompileC
+xBuild/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/ViewController.o
+x/Users/fumiharu/Desktop/flickrClient/flickrClient/ViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/Desktop/flickrClient/flickrClient/ViewController.m
+d/Users/fumiharu/Desktop/flickrClient/flickrClient/ViewController.h
+d/Users/fumiharu/Desktop/flickrClient/flickrClient/MainTableViewCell.h
+d/Users/fumiharu/Desktop/flickrClient/flickrClient/DetailViewController.h
+d/Users/fumiharu/Desktop/flickrClient/flickrClient/Params.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/fumiharu/Desktop/flickrClient/flickrClient/ViewController.m227"CompileC Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/ViewController.o flickrClient/ViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler1bb906412017b941^910c21412017b941^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/fumiharu/Desktop/flickrClient/flickrClient/ViewController.m0000000000000000^3786"CompileC Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/ViewController.o flickrClient/ViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/Desktop/flickrClient    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/flickrClient-generated-files.hmap -I/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/flickrClient-own-target-headers.hmap -I/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/flickrClient-all-target-headers.hmap -iquote /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/flickrClient-project-headers.hmap -I/Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/DerivedSources/x86_64 -I/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/DerivedSources -F/Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator -include /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/PrecompiledHeaders/flickrClient-Prefix-cqbhybsybixtujdetcsuaajubrfz/flickrClient-Prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/ViewController.d --serialize-diagnostics /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/ViewController.dia -c /Users/fumiharu/Desktop/flickrClient/flickrClient/ViewController.m -o /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/ViewController.o36"DE14C83E-66B1-4CE1-96E9-890A205D80F4-
+b8B24844D-9B11-4512-9157-765680B7E3B3
+
+CCompileC Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/main.o /Users/fumiharu/Desktop/flickrClient/flickrClient/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420915678.217651
+e420915678.272506
+r1
+xCompileC
+xBuild/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/main.o
+x/Users/fumiharu/Desktop/flickrClient/flickrClient/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/Desktop/flickrClient/flickrClient/main.m
+d/Users/fumiharu/Desktop/flickrClient/flickrClient/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/fumiharu/Desktop/flickrClient/flickrClient/main.m207"CompileC Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/main.o flickrClient/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler90d737dea916b941^f0c345dea916b941^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/fumiharu/Desktop/flickrClient/flickrClient/main.m0000000000000000^3726"CompileC Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/main.o flickrClient/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/Desktop/flickrClient    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/flickrClient-generated-files.hmap -I/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/flickrClient-own-target-headers.hmap -I/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/flickrClient-all-target-headers.hmap -iquote /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/flickrClient-project-headers.hmap -I/Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/DerivedSources/x86_64 -I/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/DerivedSources -F/Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator -include /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/PrecompiledHeaders/flickrClient-Prefix-cqbhybsybixtujdetcsuaajubrfz/flickrClient-Prefix.pch -MMD -MT dependencies -MF /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/main.dia -c /Users/fumiharu/Desktop/flickrClient/flickrClient/main.m -o /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/main.o36"B69C500E-BB66-43BC-B6C0-C6C31E32E43E-
+b32A4ED9D-A9A9-4454-95BB-A765526B5375
+
+CCompileXIB /Users/fumiharu/Desktop/flickrClient/flickrClient/DetailViewController.xib
+s420940150.767622
+e420940154.163454
+r1
+xCompileXIB
+x/Users/fumiharu/Desktop/flickrClient/flickrClient/DetailViewController.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compiling /Users/fumiharu/Desktop/flickrClient/flickrClient/DetailViewController.xib48"CompileXIB flickrClient/DetailViewController.xib9697c4760917b941^62d8297a0917b941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/fumiharu/Desktop/flickrClient/flickrClient/DetailViewController.xib0000000000000000^784"CompileXIB flickrClient/DetailViewController.xib    cd /Users/fumiharu/Desktop/flickrClient    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app/DetailViewController.nib /Users/fumiharu/Desktop/flickrClient/flickrClient/DetailViewController.xib36"B0BACDA2-025D-4C8E-81D5-6497FDAAE160-
+b3481EEBE-4E4B-4D8A-8D71-5EFC23BEBF8A
+
+CCompileXIB /Users/fumiharu/Desktop/flickrClient/flickrClient/MainTableViewCell.xib
+s420940150.770743
+e420940153.248902
+r1
+xCompileXIB
+x/Users/fumiharu/Desktop/flickrClient/flickrClient/MainTableViewCell.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compiling /Users/fumiharu/Desktop/flickrClient/flickrClient/MainTableViewCell.xib45"CompileXIB flickrClient/MainTableViewCell.xib2ee4c5760917b941^00ab3f790917b941^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/fumiharu/Desktop/flickrClient/flickrClient/MainTableViewCell.xib0000000000000000^775"CompileXIB flickrClient/MainTableViewCell.xib    cd /Users/fumiharu/Desktop/flickrClient    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app/MainTableViewCell.nib /Users/fumiharu/Desktop/flickrClient/flickrClient/MainTableViewCell.xib36"977C95B7-AAC4-4091-8F98-B7D975EDA213-
+b3481EEBE-4E4B-4D8A-8D71-5EFC23BEBF8A
+
+CCompileXIB /Users/fumiharu/Desktop/flickrClient/flickrClient/ViewController.xib
+s420940150.769245
+e420940154.181178
+r1
+xCompileXIB
+x/Users/fumiharu/Desktop/flickrClient/flickrClient/ViewController.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compiling /Users/fumiharu/Desktop/flickrClient/flickrClient/ViewController.xib42"CompileXIB flickrClient/ViewController.xib3602c5760917b941^35622e7a0917b941^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/fumiharu/Desktop/flickrClient/flickrClient/ViewController.xib0000000000000000^766"CompileXIB flickrClient/ViewController.xib    cd /Users/fumiharu/Desktop/flickrClient    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app/ViewController.nib /Users/fumiharu/Desktop/flickrClient/flickrClient/ViewController.xib36"D36C80E9-2552-406E-8931-CCC33D507EDA-
+b3481EEBE-4E4B-4D8A-8D71-5EFC23BEBF8A
+
+CCopyStringsFile /Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app/File.strings flickrClient/File.strings
+s420940150.766401
+e420940150.768003
+r1
+xCopyStringsFile
+x/Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app/File.strings
+xflickrClient/File.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection30"Copy flickrClient/File.strings108"CopyStringsFile Build/Products/Debug-iphonesimulator/flickrClient.app/File.strings flickrClient/File.strings0648c4760917b941^47adc4760917b941^---0#0#1#-19%DVTDocumentLocation2@69"file:///Users/fumiharu/Desktop/flickrClient/flickrClient/File.strings0000000000000000^558"CopyStringsFile Build/Products/Debug-iphonesimulator/flickrClient.app/File.strings flickrClient/File.strings    cd /Users/fumiharu/Desktop/flickrClient    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app -- flickrClient/File.strings36"9986E5BE-6E29-43F5-8018-5C32239BC3E2-
+b3481EEBE-4E4B-4D8A-8D71-5EFC23BEBF8A
+
+CCopyStringsFile /Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app/en.lproj/InfoPlist.strings flickrClient/en.lproj/InfoPlist.strings
+s420940150.771522
+e420940150.774495
+r1
+xCopyStringsFile
+x/Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app/en.lproj/InfoPlist.strings
+xflickrClient/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy flickrClient/en.lproj/InfoPlist.strings136"CopyStringsFile Build/Products/Debug-iphonesimulator/flickrClient.app/en.lproj/InfoPlist.strings flickrClient/en.lproj/InfoPlist.stringsaf94c5760917b941^e944c6760917b941^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/fumiharu/Desktop/flickrClient/flickrClient/en.lproj/InfoPlist.strings0000000000000000^609"CopyStringsFile Build/Products/Debug-iphonesimulator/flickrClient.app/en.lproj/InfoPlist.strings flickrClient/en.lproj/InfoPlist.strings    cd /Users/fumiharu/Desktop/flickrClient    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app/en.lproj -- flickrClient/en.lproj/InfoPlist.strings36"87526991-CABA-4D27-8BD3-6EE5F12C57FA-
+b3481EEBE-4E4B-4D8A-8D71-5EFC23BEBF8A
+
+CCpResource flickrClient/chiharu.jpg Build/Products/Debug-iphonesimulator/flickrClient.app/chiharu.jpg
+s420940150.764955
+e420940150.767202
+r1
+xCpResource
+xflickrClient/chiharu.jpg
+xBuild/Products/Debug-iphonesimulator/flickrClient.app/chiharu.jpg
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy Build/Products/Debug-iphonesimulator/flickrClient.app/chiharu.jpg101"CpResource flickrClient/chiharu.jpg Build/Products/Debug-iphonesimulator/flickrClient.app/chiharu.jpgb3eac3760917b941^50a7c4760917b941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app/chiharu.jpg003498bcdfffdf42^606"CpResource flickrClient/chiharu.jpg Build/Products/Debug-iphonesimulator/flickrClient.app/chiharu.jpg    cd /Users/fumiharu/Desktop/flickrClient    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/fumiharu/Desktop/flickrClient/flickrClient/chiharu.jpg /Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app36"F200311C-2CE6-4217-B96D-5A5D0F2B4C6B-
+b3481EEBE-4E4B-4D8A-8D71-5EFC23BEBF8A
+
+CGenerateDSYMFile /Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app.dSYM /Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app/flickrClient
+s420946138.282138
+e420946138.300647
+r1
+xGenerateDSYMFile
+x/Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app.dSYM
+x/Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app/flickrClient
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Generate /Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app.dSYM142"GenerateDSYMFile Build/Products/Debug-iphonesimulator/flickrClient.app.dSYM Build/Products/Debug-iphonesimulator/flickrClient.app/flickrClient784548da2017b941^8bfa4cda2017b941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app.dSYM/0000000000000000^685"GenerateDSYMFile Build/Products/Debug-iphonesimulator/flickrClient.app.dSYM Build/Products/Debug-iphonesimulator/flickrClient.app/flickrClient    cd /Users/fumiharu/Desktop/flickrClient    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app/flickrClient -o /Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app.dSYM36"4F33C640-A7E6-4A95-A3B2-63575E7C3AF8-
+b774A9358-3960-47F2-A80D-695A33B78CFD
+
+CLd /Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app/flickrClient normal x86_64
+s420946138.248428
+e420946138.280083
+r1
+xLd
+x/Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app/flickrClient
+xnormal
+xx86_64
+d/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/flickrClient.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/DetailViewController.o
+d/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/ViewController.o
+d/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/AppDelegate.o
+d/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/MainTableViewCell.o
+d/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/main.o
+d/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/Params.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libsystem_stats.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Link /Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app/flickrClient83"Ld Build/Products/Debug-iphonesimulator/flickrClient.app/flickrClient normal x86_6481b03fda2017b941^a2b447da2017b941^---0#0#1#--1435"Ld Build/Products/Debug-iphonesimulator/flickrClient.app/flickrClient normal x86_64    cd /Users/fumiharu/Desktop/flickrClient    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator -F/Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator -filelist /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/flickrClient.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/Objects-normal/x86_64/flickrClient_dependency_info.dat -o /Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app/flickrClient36"AC187D28-47C2-4223-A343-2D90A1E06234-
+b774A9358-3960-47F2-A80D-695A33B78CFD
+
+CProcessInfoPlistFile /Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app/Info.plist /Users/fumiharu/Desktop/flickrClient/flickrClient/flickrClient-Info.plist
+s420940154.181764
+e420940154.184024
+r1
+xProcessInfoPlistFile
+x/Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app/Info.plist
+x/Users/fumiharu/Desktop/flickrClient/flickrClient/flickrClient-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Process /Users/fumiharu/Desktop/flickrClient/flickrClient/flickrClient-Info.plist122"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/flickrClient.app/Info.plist flickrClient/flickrClient-Info.plist85992e7a0917b941^0d1d2f7a0917b941^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/fumiharu/Desktop/flickrClient/flickrClient/flickrClient-Info.plist0000000000000000^917"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/flickrClient.app/Info.plist flickrClient/flickrClient-Info.plist    cd /Users/fumiharu/Desktop/flickrClient    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/fumiharu/Desktop/flickrClient/flickrClient/flickrClient-Info.plist -genpkginfo /Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/assetcatalog_generated_info.plist -o /Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app/Info.plist36"EA8A53E5-85A8-4181-A2D7-F574E9B7B6B7-
+b3481EEBE-4E4B-4D8A-8D71-5EFC23BEBF8A
+
+CProcessPCH /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/PrecompiledHeaders/flickrClient-Prefix-cqbhybsybixtujdetcsuaajubrfz/flickrClient-Prefix.pch.pch flickrClient/flickrClient-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420915678.051052
+e420915678.127726
+r1
+xProcessPCH
+x/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/PrecompiledHeaders/flickrClient-Prefix-cqbhybsybixtujdetcsuaajubrfz/flickrClient-Prefix.pch.pch
+xflickrClient/flickrClient-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fumiharu/Desktop/flickrClient/flickrClient/flickrClient-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile flickrClient/flickrClient-Prefix.pch233"ProcessPCH Build/Intermediates/PrecompiledHeaders/flickrClient-Prefix-cqbhybsybixtujdetcsuaajubrfz/flickrClient-Prefix.pch.pch flickrClient/flickrClient-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler20260ddea916b941^8db420dea916b941^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/fumiharu/Desktop/flickrClient/flickrClient/flickrClient-Prefix.pch0000000000000000^3635"ProcessPCH Build/Intermediates/PrecompiledHeaders/flickrClient-Prefix-cqbhybsybixtujdetcsuaajubrfz/flickrClient-Prefix.pch.pch flickrClient/flickrClient-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fumiharu/Desktop/flickrClient    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/fumiharu/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/flickrClient-generated-files.hmap -I/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/flickrClient-own-target-headers.hmap -I/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/flickrClient-all-target-headers.hmap -iquote /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/flickrClient-project-headers.hmap -I/Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/DerivedSources/x86_64 -I/Users/fumiharu/Desktop/flickrClient/Build/Intermediates/flickrClient.build/Debug-iphonesimulator/flickrClient.build/DerivedSources -F/Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/PrecompiledHeaders/flickrClient-Prefix-cqbhybsybixtujdetcsuaajubrfz/flickrClient-Prefix.pch.dia -MMD -MT dependencies -MF /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/PrecompiledHeaders/flickrClient-Prefix-cqbhybsybixtujdetcsuaajubrfz/flickrClient-Prefix.pch.d -c /Users/fumiharu/Desktop/flickrClient/flickrClient/flickrClient-Prefix.pch -o /Users/fumiharu/Desktop/flickrClient/Build/Intermediates/PrecompiledHeaders/flickrClient-Prefix-cqbhybsybixtujdetcsuaajubrfz/flickrClient-Prefix.pch.pch36"50E1D616-E23D-48BF-B3B6-A0AEE8EB4609-
+b32A4ED9D-A9A9-4454-95BB-A765526B5375
+
+CProcessPCH /Users/fumiharu/Library/Developer/Xcode/DerivedData/flickrClient-cjpuehahetusnxdbnmcafyzjboue/Index/PrecompiledHeaders/flickrClient-Prefix-ciydacvsikgkpccgqzyaoimrybhu_ast/flickrClient-Prefix.pch.pch flickrClient/flickrClient-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/fumiharu/Desktop/flickrClient/Build/Products/Debug-iphonesimulator/flickrClient.app
+r0
+
